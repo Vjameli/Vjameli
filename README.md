@@ -7,11 +7,11 @@ I'm a 21 years old Brazilian researcher, finishing my major in applied mathemati
 #### What you can find here :mag_right:
 
 
-<img align="right" alt="GIF" src="https://github.com/Vjameli/Vjameli/blob/main/imrt.gif" />
+
 
 On GitHub, I provide the scripts from my college's projects and the ones from my research.
 
-
+<img align="right" alt="GIF" src="https://github.com/Vjameli/Vjameli/blob/main/imrt.gif" />
 
 #### Research :microscope:
 
