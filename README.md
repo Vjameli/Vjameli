@@ -9,11 +9,9 @@ On GitHub, I provide the scripts from my college's projects and the ones from my
 #### Research: 
 
 My research field is radiotherapy planning, but my interest lies in optimization methods used in the planning process, including: 
-linear and non-linear programming, numerical analysis, and stochastics methods.
+linear and non-linear programming, numerical analysis, and stochastic methods.
 
-Quoted from Sebastiaan Breedveld: 
-
-*"It is my ambition to greatly improve radiation therapy treatment, providing the highest quality treatment possible, for each individual patient."*
+Quoted from Sebastiaan Breedveld: *"It is my ambition to greatly improve radiation therapy treatment, providing the highest quality treatment possible, for each individual patient."*
 
 
 #### 📫 Reach me
