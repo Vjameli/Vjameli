@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-#### I'm a 21 years old Brazilian researcher, finishing my major in applied mathematics.
+I'm a 21 years old Brazilian researcher, finishing my major in applied mathematics.
 
 #### What you can find here
 
-On GitHub, I provide 
+On GitHub, I provide the scripts from my college's projects and the ones from my research.
 
 #### Research: 
 
@@ -12,8 +12,7 @@ My research field is radiotherapy planning, but my interest lies in optimization
 linear and non-linear programming, numerical analysis, and stochastics methods.
 
 Quoted from Sebastiaan Breedveld: 
-*"It is my ambition to greatly improve radiation therapy treatment, providing the highest quality treatment possible, for each individual patient."
-
+*"It is my ambition to greatly improve radiation therapy treatment, providing the highest quality treatment possible, for each individual patient."*
 
 
 #### 📫 Reach me
