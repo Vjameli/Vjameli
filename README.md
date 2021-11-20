@@ -8,9 +8,11 @@ I'm a 21 years old Brazilian researcher, finishing my major in applied mathemati
 
 On GitHub, I provide the scripts from my college's projects and the ones from my research.
 
-#### Research :microscope:
 
 <img align="right" alt="GIF" src="https://github.com/Vjameli/Vjameli/blob/main/imrt.gif" />
+#### Research :microscope:
+
+
 
 My research field is radiotherapy planning, but my interest lies in optimization methods used in the planning process, including: 
 linear and non-linear programming, numerical analysis, and stochastic methods.
