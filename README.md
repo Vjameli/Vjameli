@@ -13,7 +13,7 @@ linear and non-linear programming, numerical analysis, and stochastic methods.
 
 Quoted from Sebastiaan Breedveld: *"It is my ambition to greatly improve radiation therapy treatment, providing the highest quality treatment possible, for each individual patient."*
 
-<img align="right" alt="GIF" src="https://imgur.com/gMQfWN0" />
+<img align="right" alt="GIF" src="https://github.com/Vjameli/Vjameli/blob/main/ezgif-4-37b3740d5506.gif" />
 
 
 #### Reach me! 📫
