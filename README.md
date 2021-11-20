@@ -12,6 +12,7 @@ My research field is radiotherapy planning, but my interest lies in optimization
 linear and non-linear programming, numerical analysis, and stochastics methods.
 
 Quoted from Sebastiaan Breedveld: 
+
 *"It is my ambition to greatly improve radiation therapy treatment, providing the highest quality treatment possible, for each individual patient."*
 
 
