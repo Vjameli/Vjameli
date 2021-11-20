@@ -1,6 +1,8 @@
+<img align="right" alt="GIF" src="https://github.com/Vjameli/Vjameli/blob/main/imrt.gif" />
+
 ### Hi there 👋
 
-<img align="right" alt="GIF" src="https://github.com/Vjameli/Vjameli/blob/main/imrt.gif" />
+
 
 I'm a 21 years old Brazilian researcher, finishing my major in applied mathematics.
 
