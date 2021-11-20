@@ -2,11 +2,19 @@
 
 #### I'm a 21 years old Brazilian researcher, finishing my major in applied mathematics.
 
+#### What you can find here
+
+On GitHub, I provide 
+
+#### Research: 
+
 My research field is radiotherapy planning, but my interest lies in optimization methods used in the planning process, including: 
 linear and non-linear programming, numerical analysis, and stochastics methods.
 
 Quoted from Sebastiaan Breedveld: 
 *"It is my ambition to greatly improve radiation therapy treatment, providing the highest quality treatment possible, for each individual patient."
+
+
 
 #### 📫 Reach me
 - E-mail: vjameli@gmail.com
