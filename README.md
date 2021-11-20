@@ -1,3 +1,14 @@
-# Vinicius-Jameli
+### Hi there 👋
 
-![image](https://user-images.githubusercontent.com/78000566/142737570-adc7d356-0b33-4e53-b12e-1f39349d992f.png)
+#### I'm a 21 years old Brazilian researcher, finishing my major in applied mathematics.
+
+My research field is radiotherapy planning, but my interest lies in optimization methods used in the planning process, including: 
+linear and non-linear programming, numerical analysis, and stochastics methods.
+
+Quoted from Sebastiaan Breedveld: 
+*"It is my ambition to greatly improve radiation therapy treatment, providing the highest quality treatment possible, for each individual patient."
+
+#### 📫 Reach me
+- E-mail: vjameli@gmail.com
+- [Researchgate](https://www.researchgate.net/profile/Vinicius-Jameli)
+- [Linkedin](www.linkedin.com/in/jameli)
